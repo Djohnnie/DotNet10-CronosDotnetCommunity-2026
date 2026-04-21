@@ -111,26 +111,32 @@
     <Project Path="EF10.NonExpressionExecuteUpdateAsync/EF10.NonExpressionExecuteUpdateAsync.csproj" Id="fc3f05b9-3966-4010-b223-35f9cf08b93c" />
     <Project Path="EF9.NonExpressionExecuteUpdateAsync/EF9.NonExpressionExecuteUpdateAsync.csproj" Id="da688c1f-45ac-404e-b957-2a566917981f" />
   </Folder>
-  <Folder Name="/91. C# 14 - Extension Members/">
+  <Folder Name="/81. C# 14 - Extension Members/">
     <Project Path="CSharp14.ExtensionMembers/CSharp14.ExtensionMembers.csproj" Id="65e3b40f-36bd-4ddc-96a0-6969096f1452" />
   </Folder>
-  <Folder Name="/92. C# 14 - field keyword/">
+  <Folder Name="/82. C# 14 - field keyword/">
     <Project Path="CSharp14.FieldKeyword/CSharp14.FieldKeyword.csproj" />
   </Folder>
-  <Folder Name="/93. C# 14 - Nameof Unbound Generics/" Id="31bfa423-fbb7-4464-b711-4b58fc05ae37">
+  <Folder Name="/83. C# 14 - Nameof Unbound Generics/" Id="31bfa423-fbb7-4464-b711-4b58fc05ae37">
     <Project Path="CSharp14.NameofUnboundGenerics/CSharp14.NameofUnboundGenerics.csproj" Id="bd2f2b71-6114-443d-a4ec-39ef6c285430" />
   </Folder>
-  <Folder Name="/94. C# 14 - Simple lambda parameters with modifiers/">
+  <Folder Name="/84. C# 14 - Simple lambda parameters with modifiers/">
     <Project Path="CSharp14.SimpleLambdaParametersWithModifiers/CSharp14.SimpleLambdaParametersWithModifiers.csproj" Id="c3f03451-dd72-4a57-87f1-cef9b4d32327" />
   </Folder>
-  <Folder Name="/95. C# 14 - Even more partials/" Id="02ea681e-c7d8-13c7-8484-4ac65e1b71e8">
+  <Folder Name="/85. C# 14 - Even more partials/" Id="02ea681e-c7d8-13c7-8484-4ac65e1b71e8">
     <Project Path="CSharp14.EvenMorePartials/CSharp14.EvenMorePartials.csproj" Id="825b182b-3429-4855-ab7d-edeedf75c306" />
   </Folder>
-  <Folder Name="/96. C# 14 - User Defined Compound Assignment Operators/">
+  <Folder Name="/86. C# 14 - User Defined Compound Assignment Operators/">
     <Project Path="CSharp14.UserDefinedCompoundAssignmentOperators/CSharp14.UserDefinedCompoundAssignmentOperators.csproj" Id="058c8dfa-b541-4c60-a7fb-6fbc6cffadd8" />
   </Folder>
-  <Folder Name="/97. C# 14 - Null-conditional assignment/">
+  <Folder Name="/87. C# 14 - Null-conditional assignment/">
     <Project Path="CSharp14.NullConditionalAssignment/CSharp14.NullConditionalAssignment.csproj" Id="0fc700f1-0fa5-4a19-a643-60b1c463f414" />
+  </Folder>
+  <Folder Name="/91. C# 15 - Collection expression arguments/">
+    <Project Path="CSharp15.CollectionExpressionArguments/CSharp15.CollectionExpressionArguments.csproj" Id="00047dca-c49c-4302-8021-b6bca8ec35df" />
+  </Folder>
+  <Folder Name="/92. C# 15 - union type support/">
+    <Project Path="CSharp15.UnionTypeSupport/CSharp15.UnionTypeSupport.csproj" Id="be2ca170-31b0-43f2-99f0-0fdbe563a39c" />
   </Folder>
   <Folder Name="/Solution Items/">
     <File Path="sources.txt" />
